@@ -1,0 +1,166 @@
+header{
+    width: 1440px;
+    height: 800px;
+    background-color: rgba(243, 215, 183, 1);
+}
+.p1{
+   width: 227px;
+   height: 24px;
+   margin-top: 40px;
+   margin-left: 50px;
+}
+.box3{
+    display: flex;
+}
+.box{
+    width: 1340px;
+    height: 24px;
+    margin-top: 40px;
+    margin-left: 0%;
+    display: flex;
+    gap: 40px;
+    font-weight: 700;
+    font-size: 12px;
+    justify-content: end;
+    margin-right: 50px;
+}
+.box2{
+    width: 464px;
+    height: 367px;
+    margin-top: 130px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 47px;
+}
+.p4{
+    font-size: 400;
+    font-size: 16px ;
+}
+.p3{
+    font-size: 64px;
+    font-weight: 900;
+}
+button{
+    width: 193px;
+    height: 51px;
+    background-color: rgb(10, 119, 95, 1);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+
+}
+button:hover{
+    background-color: green;
+}
+.box4{
+    display: flex;
+}
+.link1{
+    background-image: url(./Rectangle\ 679.png);
+        width: 710px;
+    height: 694px;
+    margin-left: 225px;
+    margin-top: 130px;
+    position: relative;
+    background-repeat: no-repeat;
+}
+.l1{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 570px;
+    right: 570px;
+}
+main{
+    width: 1444px;
+    height: 100px;
+
+}
+.p6{
+    margin-top: 108px;
+    margin-left: 543.51px;
+    font-size: 50px;
+    font-weight: 900;
+}
+.box5{
+    width: 1117.09px;
+    height: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 50px;
+
+}
+.p7{
+    width: 451px;
+    height: 375px;
+}
+.box6{
+    width: 454px;
+    height: 134px;
+    margin-left: 117px;
+    display: flex;
+    flex-direction: column;
+
+}
+.p6{
+    font-size: 48px;
+    font-weight: 700;
+}
+.p8{
+    font-size: 22px;
+    font-weight:  400;
+
+}
+.p9{
+    width: 451px;
+    height: 375px;
+}
+.box6{
+      width: 454px;
+    height: 134px;
+    margin-left: 117px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 121px; 
+}
+footer{
+    width: 1440px;
+    height: 160px;
+    display: flex;
+    margin-top: 1470px;
+    background-color: rgba(243, 215, 183, 1);
+    
+}
+.l2{
+    width: 235px;
+    height: 24px;
+    margin-top: 70px;
+    margin-left: 40px;
+
+}
+.link2{
+    display: flex;
+    gap: 40px;
+    margin: auto;
+    font-weight: 700;
+    font-size: 16px;
+}
+.link3{
+        margin-top: 70px;
+    margin-left: 0%;
+    display: flex;
+    gap: 40px;
+    font-weight: 700;
+    font-size: 12px;
+    justify-content: end;
+    margin-right: 50px;
+}
+
+.o1{
+    width: 30px;
+    height: 30px;
+}
